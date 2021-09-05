@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\task 5 dictionary\task 5 dictionary\bin\Debug\task 5 dictionary.exe.config
+C:\Users\HP\source\repos\task 5 dictionary\task 5 dictionary\bin\Debug\task 5 dictionary.exe
+C:\Users\HP\source\repos\task 5 dictionary\task 5 dictionary\bin\Debug\task 5 dictionary.pdb
+C:\Users\HP\source\repos\task 5 dictionary\task 5 dictionary\obj\Debug\task 5 dictionary.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\task 5 dictionary\task 5 dictionary\obj\Debug\task 5 dictionary.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\task 5 dictionary\task 5 dictionary\obj\Debug\task 5 dictionary.exe
+C:\Users\HP\source\repos\task 5 dictionary\task 5 dictionary\obj\Debug\task 5 dictionary.pdb
