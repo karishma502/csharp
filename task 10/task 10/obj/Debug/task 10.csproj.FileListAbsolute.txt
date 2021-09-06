@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\task 10\task 10\bin\Debug\task 10.exe.config
+C:\Users\HP\source\repos\task 10\task 10\bin\Debug\task 10.exe
+C:\Users\HP\source\repos\task 10\task 10\bin\Debug\task 10.pdb
+C:\Users\HP\source\repos\task 10\task 10\obj\Debug\task 10.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\task 10\task 10\obj\Debug\task 10.exe
+C:\Users\HP\source\repos\task 10\task 10\obj\Debug\task 10.pdb
