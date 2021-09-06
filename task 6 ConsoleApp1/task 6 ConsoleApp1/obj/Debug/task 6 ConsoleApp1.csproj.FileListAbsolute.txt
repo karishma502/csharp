@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\task 6 ConsoleApp1\task 6 ConsoleApp1\bin\Debug\task 6 ConsoleApp1.exe.config
+C:\Users\HP\source\repos\task 6 ConsoleApp1\task 6 ConsoleApp1\bin\Debug\task 6 ConsoleApp1.exe
+C:\Users\HP\source\repos\task 6 ConsoleApp1\task 6 ConsoleApp1\bin\Debug\task 6 ConsoleApp1.pdb
+C:\Users\HP\source\repos\task 6 ConsoleApp1\task 6 ConsoleApp1\obj\Debug\task 6 ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\task 6 ConsoleApp1\task 6 ConsoleApp1\obj\Debug\task 6 ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\task 6 ConsoleApp1\task 6 ConsoleApp1\obj\Debug\task 6 ConsoleApp1.exe
+C:\Users\HP\source\repos\task 6 ConsoleApp1\task 6 ConsoleApp1\obj\Debug\task 6 ConsoleApp1.pdb
