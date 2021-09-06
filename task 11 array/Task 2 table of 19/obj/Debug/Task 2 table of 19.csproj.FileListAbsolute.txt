@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\task 11 array\Task 2 table of 19\bin\Debug\Task 2 table of 19.exe.config
+C:\Users\HP\source\repos\task 11 array\Task 2 table of 19\bin\Debug\Task 2 table of 19.exe
+C:\Users\HP\source\repos\task 11 array\Task 2 table of 19\bin\Debug\Task 2 table of 19.pdb
+C:\Users\HP\source\repos\task 11 array\Task 2 table of 19\obj\Debug\Task 2 table of 19.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\task 11 array\Task 2 table of 19\obj\Debug\Task 2 table of 19.exe
+C:\Users\HP\source\repos\task 11 array\Task 2 table of 19\obj\Debug\Task 2 table of 19.pdb
+C:\Users\HP\source\repos\task 11 array\Task 2 table of 19\obj\Debug\Task 2 table of 19.csproj.AssemblyReference.cache

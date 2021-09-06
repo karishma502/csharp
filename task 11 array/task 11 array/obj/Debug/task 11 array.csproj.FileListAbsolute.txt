@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\task 11 array\task 11 array\bin\Debug\task 11 array.exe.config
+C:\Users\HP\source\repos\task 11 array\task 11 array\bin\Debug\task 11 array.exe
+C:\Users\HP\source\repos\task 11 array\task 11 array\bin\Debug\task 11 array.pdb
+C:\Users\HP\source\repos\task 11 array\task 11 array\obj\Debug\task 11 array.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\task 11 array\task 11 array\obj\Debug\task 11 array.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\task 11 array\task 11 array\obj\Debug\task 11 array.exe
+C:\Users\HP\source\repos\task 11 array\task 11 array\obj\Debug\task 11 array.pdb
