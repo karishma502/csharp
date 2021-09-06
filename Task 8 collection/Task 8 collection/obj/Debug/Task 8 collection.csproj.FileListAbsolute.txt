@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Task 8 collection\Task 8 collection\bin\Debug\Task 8 collection.exe.config
+C:\Users\HP\source\repos\Task 8 collection\Task 8 collection\bin\Debug\Task 8 collection.exe
+C:\Users\HP\source\repos\Task 8 collection\Task 8 collection\bin\Debug\Task 8 collection.pdb
+C:\Users\HP\source\repos\Task 8 collection\Task 8 collection\obj\Debug\Task 8 collection.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Task 8 collection\Task 8 collection\obj\Debug\Task 8 collection.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Task 8 collection\Task 8 collection\obj\Debug\Task 8 collection.exe
+C:\Users\HP\source\repos\Task 8 collection\Task 8 collection\obj\Debug\Task 8 collection.pdb

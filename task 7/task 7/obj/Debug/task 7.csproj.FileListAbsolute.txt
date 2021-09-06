@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\task 7\task 7\bin\Debug\task 7.exe.config
+C:\Users\HP\source\repos\task 7\task 7\bin\Debug\task 7.exe
+C:\Users\HP\source\repos\task 7\task 7\bin\Debug\task 7.pdb
+C:\Users\HP\source\repos\task 7\task 7\obj\Debug\task 7.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\task 7\task 7\obj\Debug\task 7.exe
+C:\Users\HP\source\repos\task 7\task 7\obj\Debug\task 7.pdb
+C:\Users\HP\source\repos\task 7\task 7\obj\Debug\task 7.csproj.AssemblyReference.cache
