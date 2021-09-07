@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\task 16\task 16\obj\Debug\task 16.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\task 16\task 16\bin\Debug\task 16.exe.config
+C:\Users\HP\source\repos\task 16\task 16\bin\Debug\task 16.exe
+C:\Users\HP\source\repos\task 16\task 16\bin\Debug\task 16.pdb
+C:\Users\HP\source\repos\task 16\task 16\obj\Debug\task 16.exe
+C:\Users\HP\source\repos\task 16\task 16\obj\Debug\task 16.pdb
