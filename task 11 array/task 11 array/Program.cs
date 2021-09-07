@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,60 +6,50 @@ using System.Threading.Tasks;
 
 namespace task_11_array
 {
-    class Program
+     class Program
     {
-
-        static void thirdLargest(int[] arr,
-                         int arr_size)
+        public static void Main(string[] args)
         {
-            /* There should be
-            atleast three elements */
-            if (arr_size < 3)
+            int[] arr = new int[10];
+            Console.WriteLine("Enter Numbers:");
+
+            for (int i = 0; i < 10; i++)
             {
-                Console.Write(" Invalid Input ");
-                return;
+                int n = Convert.ToInt32(Console.ReadLine());
+                arr[i] = n;
             }
-
-            // Find first
-            // largest element
-            int first = arr[0];
-            for (int i = 1;
-                     i < arr_size; i++)
-                if (arr[i] > first)
-                    first = arr[i];
-
-            // Find second
-            // largest element
-            int second = -int.MaxValue;
-            for (int i = 0;
-                     i < arr_size; i++)
-                if (arr[i] > second &&
-                    arr[i] < first)
-                    second = arr[i];
-
-            // Find third
-            // largest element
-            int third = -int.MaxValue;
-            for (int i = 0;
-                     i < arr_size; i++)
-                if (arr[i] > third &&
-                    arr[i] < second)
-                    third = arr[i];
-
-            Console.Write("The third Largest " +
-                          "element is " + third);
+            Array.Sort(arr);
+       
+            Print3largest(arr);
+            Console.Read();
         }
 
-        static void Main(string[] args)
+        static void Print3largest(int[] arr)
         {
-            int[] arr = {12, 13, 1,
-                 10, 34, 16};
-            int n = arr.Length;
-            thirdLargest(arr, n);
-            Console.ReadLine();
+            int first = int.MinValue;
+            int second = int.MinValue;
+            int third = int.MinValue;
+            foreach (int item in arr)
+            {
+                if (item > first)
+                {
+                    third = second;
+                    second = first;
+                    first = item;
+                }
+                else if (item > second)
+                {
+                    third = second;
+                    second = item;
+                }
+                else if (item > first)
+                {
+                    third = item;
+                }
 
-            
-            
+            }
+            Console.WriteLine("Third Highest Number is: " + third);
+            Console.Read();
         }
     }
 }
