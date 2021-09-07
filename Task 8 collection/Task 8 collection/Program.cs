@@ -11,29 +11,16 @@ namespace Task_8_collection
     {
         static void Main(string[] args)
         {
-            ArrayList arr = new ArrayList();
-            arr.Add("Sumit");
-            arr.Add(19);
-            arr.Add(true);
-
-            //var stringg = arr[0];
-            //Console.WriteLine(stringg);
-
-            //var intt = arr[1];
-            //Console.WriteLine(intt);
-
-
-            //var booleann = arr[2];
-            //Console.WriteLine(booleann);
-
-            for (int i = 0; i < arr.Count; i++)
-            {
-                Console.WriteLine(arr[i]);
-            }
-
            
-
-           
+            var tuples = Tuple.Create(true, "karishma", "miraj", 5200, 2.5);
+            Console.WriteLine(tuples.Item1);
+            Console.WriteLine(tuples.Item2);
+            Console.WriteLine(tuples.Item3);
+            Console.WriteLine(tuples.Item4);
+            Console.WriteLine(tuples.Item5);
+        
+          
+            
             Console.ReadLine();
         }
     }
