@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\task 14\task 14\bin\Debug\task 14.exe.config
+C:\Users\HP\source\repos\task 14\task 14\bin\Debug\task 14.exe
+C:\Users\HP\source\repos\task 14\task 14\bin\Debug\task 14.pdb
+C:\Users\HP\source\repos\task 14\task 14\obj\Debug\task 14.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\task 14\task 14\obj\Debug\task 14.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\task 14\task 14\obj\Debug\task 14.exe
+C:\Users\HP\source\repos\task 14\task 14\obj\Debug\task 14.pdb
